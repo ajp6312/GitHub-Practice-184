@@ -36,11 +36,8 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
 | Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
-
-
-<br>
-
-# Integration of RStudio with Git
+  Arush               Section 001         ajp6312               https://ajp6312.github.io/Shy-Github-Demo/            
+                                                               
 
 - Simplified instructions: [Data Computing eBook--Appendix: Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
 - More detail if needed: <http://happygitwithr.com/index.html>
